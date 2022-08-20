@@ -4,5 +4,5 @@ Hibiscus Studios is a team of creators helping build high-quality plugins design
 
 ## Current Resources
 - [HMCCosmetics](https://polymart.org/resource/hmccosmetics.1879) - Intuitive, easy-to-use cosmetics plugin, designed for servers using resource packs.
-- HMCWraps (soon:tm:)
+- [HMCWraps](https://github.com/HibiscusMC/HMCWraps) - The best choice to make your items prettier.
 - [Analytics](https://github.com/HibiscusMC/Analytics) - Bukkit plugin for using the GameAnalytics service on a Minecraft server.
